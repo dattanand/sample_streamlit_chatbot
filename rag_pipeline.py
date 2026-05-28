@@ -12,7 +12,7 @@ class RAGPipeline:
             azure_deployment="text-embedding-ada-002",  # Your embedding deployment name
             openai_api_version=st.secrets.get("AZURE_OPENAI_API_VERSION", "2024-02-15-preview"),
             azure_endpoint=st.secrets.get("AZURE_OPENAI_ENDPOINT"),
-            api_key=st.secrets.get("AZURE_OPENAI_ENDPOINT"),
+            api_key=st.secrets.get("AZURE_OPENAI_API_KEY"),
             chunk_size=16
         )
         self.text_splitter = RecursiveCharacterTextSplitter(
