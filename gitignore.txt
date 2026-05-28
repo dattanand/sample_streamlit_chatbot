@@ -1,0 +1,8 @@
+.env
+*.pyc
+__pycache__/
+vector_store.pkl
+interaction_logs.json
+.DS_Store
+.streamlit/secrets.toml
+interaction_logs.json

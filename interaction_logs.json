@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2026-05-28T19:14:34.141436",
+    "query": "my phone is draining battery",
+    "query_type": "general",
+    "answer_preview": "## \ud83d\udcdd Direct Answer\nIf your Samsung phone is draining battery quickly, consider checking for background apps, adjusting screen brightness, and disabling unnecessary features.\n\n## \ud83d\udcda Explanation\nBattery ",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:15:13.780018",
+    "query": "my phone is draining battery",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Background apps running continuously can consume battery power.\n2. High screen brightness settings may lead to increased battery drain.\n3. Location services and connectivity fe",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:18:45.219596",
+    "query": "my battery drains fast\n",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Background sync may be consuming battery power.\n2. Location services could be running continuously.\n3. High refresh rate settings might be draining the battery faster.\n\n## \u2705 St",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:20:02.856071",
+    "query": "battery drains",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Background apps consuming battery power.\n2. Screen brightness set too high or using adaptive brightness.\n3. Outdated software or apps that need updating.\n\n## \u2705 Step-by-Step Sol",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:20:17.686533",
+    "query": "battery drains",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Background apps consuming battery power.\n2. Screen brightness set too high or using adaptive brightness.\n3. Outdated software or apps that need updating.\n\n## \u2705 Step-by-Step Sol",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:21:18.929245",
+    "query": "riemmans hypothesis",
+    "query_type": "general",
+    "answer_preview": "Based on available documentation, I couldn't find information about that. Would you like me to help with something else?",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:30:13.877150",
+    "query": "phone slow",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Insufficient storage space on the device.\n2. Background apps consuming excessive resources.\n3. Outdated software or firmware.\n\n## \u2705 Step-by-Step Solution\n1. **Check Storage Spa",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:30:29.226743",
+    "query": "riemman hypothesis",
+    "query_type": "general",
+    "answer_preview": "Based on available documentation, I couldn't find information about that. Would you like me to help with something else?",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:44:05.070510",
+    "query": "green screen issue",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Background app conflicts that may be affecting the display.\n2. High refresh rate settings that could lead to display issues.\n3. Potential software glitches that require updates",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T19:46:31.382522",
+    "query": "green screen issue",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Background app conflicts that may be affecting the display.\n2. High refresh rate settings that could lead to display issues.\n3. Potential software glitches that require updates",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T20:22:28.950405",
+    "query": "my phone keeps restarting\n",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Software failure after an update.\n2. App conflicts causing system instability.\n3. Background sync or location services running excessively.\n\n## \u2705 Step-by-Step Solution\n1. **Res",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T20:22:56.701903",
+    "query": "above steps didnt help\n",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Software failure that may require a rollback.\n2. Conflicts with background processes or apps that are not resolved by previous steps.\n3. Potential hardware issues, such as a fa",
+    "resolved": null
+  },
+  {
+    "timestamp": "2026-05-28T20:23:31.672148",
+    "query": "something else is wrong, what to do?\n",
+    "query_type": "troubleshooting",
+    "answer_preview": "## \ud83d\udd0d Possible Causes\n1. Persistent software issues that may require a rollback or deeper troubleshooting.\n2. Hardware failure, such as a malfunctioning battery or internal component.\n3. Conflicts with",
+    "resolved": null
+  }
+]
