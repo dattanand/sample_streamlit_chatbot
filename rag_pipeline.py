@@ -3,16 +3,16 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import AzureOpenAIEmbeddings
 import pickle
 import os
-
+import streamlit as st
 class RAGPipeline:
     def __init__(self):
         self.vector_store = None
         # Use Azure OpenAI Embeddings
         self.embeddings = AzureOpenAIEmbeddings(
             azure_deployment="text-embedding-ada-002",  # Your embedding deployment name
-            openai_api_version=os.getenv("AZURE_OPENAI_API_VERSION", "2024-02-15-preview"),
-            azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-            api_key=os.getenv("AZURE_OPENAI_API_KEY"),
+            openai_api_version=st.secrets.get("AZURE_OPENAI_API_VERSION", "2024-02-15-preview"),
+            azure_endpoint=st.secrets.get("AZURE_OPENAI_ENDPOINT"),
+            api_key=st.secrets.get("AZURE_OPENAI_ENDPOINT"),
             chunk_size=16
         )
         self.text_splitter = RecursiveCharacterTextSplitter(
