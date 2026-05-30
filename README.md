@@ -1,3 +1,3 @@
 Samsung Smart Support Copilot
 
-![Sample](screenshot.png)
+![Sample](https://github.com/dattanand/sample_streamlit_chatbot/blob/master/Screenshot.png)
